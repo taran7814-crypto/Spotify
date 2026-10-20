@@ -1,0 +1,38 @@
+/* Minimal utility classes retained for compatibility */
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.bg-black {
+  background: #000;
+  color: #fff;
+}
+
+.bg-grey {
+  background: #121212;
+}
+
+.invert {
+  filter: invert(1);
+}
+
+.rounded {
+  border-radius: 8px;
+}
+
+.m-1 {
+  margin: 5px;
+}
+
+.p-1 {
+  padding: 10px;
+}

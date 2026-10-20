@@ -1,0 +1,14 @@
+.venv/
+**/.venv/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+**/.env
+
+# Keep local music files off GitHub
+react-client/public/songs/**/*.mp3
+react-client/public/songs/**/desktop.ini
+
+react-client/public/songs/**/*.ini
