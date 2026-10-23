@@ -100,7 +100,7 @@ function App() {
                 type="button"
                 aria-label="Back to albums"
               >
-                ├ù
+                ×
               </button>
               <div id="albumHeader" />
               <div id="albumContent" />
@@ -151,7 +151,7 @@ function App() {
               title="Queue / Library"
             >
               <span className="queue-glyph" aria-hidden="true">
-                Γÿ╖
+                ☷
               </span>
             </button>
           </div>
