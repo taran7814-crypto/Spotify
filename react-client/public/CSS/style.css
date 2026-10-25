@@ -65,8 +65,8 @@ img {
 }
 
 .spotify-logo {
-  width: 52px;
-  height: 52px;
+  width: 48px;
+  height: 48px;
   flex: 0 0 52px;
   display: flex;
   align-items: center;
@@ -1338,13 +1338,19 @@ img {
     font-size: 12px;
   }
 
+  .account-buttons .signupbtn {
+    padding: 9px 3px;
+    font-size: 12px;
+  }
+
   .search-box {
     height: 40px;
-    padding-inline: 8px;
+    width: 100px;
+    padding-inline: 5px;
   }
 
   .search-box input {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .playbar {
