@@ -61,7 +61,7 @@ function App() {
           <input
             type="search"
             id="topSearchInput"
-            placeholder="What do you want to play?"
+            placeholder="Search"
             aria-label="Search songs and playlists"
           />
         </label>
