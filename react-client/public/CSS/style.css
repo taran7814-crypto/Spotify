@@ -1345,11 +1345,11 @@ img {
 
   .search-box {
     height: 40px;
-    padding-inline: 5px;
+    padding-inline: 3px;
   }
 
   .search-box input {
-    font-size: 10px;
+    font-size: 9px;
   }
 
   .playbar {
