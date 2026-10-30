@@ -1676,9 +1676,9 @@ img {
   .playbar {
     position: fixed !important;
     display: block !important;
-    left: 8px !important;
-    right: 8px !important;
-    bottom: calc(6px + env(safe-area-inset-bottom)) !important;
+    left: 10px !important;
+    right: 10px !important;
+    bottom: calc(25px + env(safe-area-inset-bottom)) !important;
     height: 82px !important;
     padding: 8px 12px 0 !important;
     box-sizing: border-box !important;
