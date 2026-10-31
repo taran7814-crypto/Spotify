@@ -65,8 +65,8 @@ img {
 }
 
 .spotify-logo {
-  width: 48px;
-  height: 48px;
+  width: 46px;
+  height: 46px;
   flex: 0 0 52px;
   display: flex;
   align-items: center;
@@ -1318,8 +1318,8 @@ img {
   }
 
   .spotify-logo img {
-    width: 29px;
-    height: 29px;
+    width: 36px;
+    height: 36px;
   }
 
   .home-button {
