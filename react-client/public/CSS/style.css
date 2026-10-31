@@ -1312,14 +1312,14 @@ img {
   }
 
   .spotify-logo {
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
     flex-basis: 30px;
   }
 
   .spotify-logo img {
-    width: 36px;
-    height: 36px;
+    width: 19px;
+    height: 19px;
   }
 
   .home-button {
